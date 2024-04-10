@@ -8,7 +8,7 @@ I have a keen interest in TypeScript and am actively learning React and Next.js.
 - **Frameworks:** React, Next.js, tailwind CSS
 
 ## 🌐 Find Me Elsewhere
-- **Website:** [seyzeriat.fr](https://www.seyzeriat.fr)
+- **Website:** [seyzeriat.com](https://www.seyzeriat.com)
 - **LinkedIn:** [Gauthier Seyzeriat--Meyer](https://www.linkedin.com/in/gauthier-seyzeriat-meyer-1b8582281/)
 - **Twitter:** [Gauthier Se](https://twitter.com/Gauthier__sey)
 
