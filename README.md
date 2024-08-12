@@ -1,10 +1,9 @@
 # Hello, I'm Gauthier Seyzeriat--Meyer! 👋
 
-Welcome to my GitHub page! I'm currently training to be a web developer specializing in PHP at the CCI Campus in Colmar. 
-I have a keen interest in TypeScript and am actively learning React and Next.js.
+Welcome to my GitHub page! I'm currently training to be a web developer specializing in React at the CCI Campus in Strasbourg. 
 
 ## 🛠 Skills
-- **Languages:** PHP, TypeScript
+- **Languages:** TypeScript, Php, C#, Python
 - **Frameworks:** React, Next.js, tailwind CSS
 
 ## 🌐 Find Me Elsewhere
